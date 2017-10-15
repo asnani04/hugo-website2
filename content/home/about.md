@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "B.Tech. in Computer Science and Engineering"
   institution = "Indian Institute of Technology Kanpur"
-  year = expected 2018
+  year = 2018
  
 +++
 
