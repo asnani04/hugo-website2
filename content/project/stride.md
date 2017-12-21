@@ -1,0 +1,29 @@
++++
+# Date this page was created.
+date = "2016-04-27"
+
+# Project title.
+title = "Internship at Stride AI"
+
+# Project summary to display on homepage.
+summary = "I spent a month interning at Stride AI, a company that aims to simplify natural language processing for financial institutions."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "stride.png"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "optimization", "natural-language-processing", "text-generation"]`
+tags = ["stride", "natural language generation", "abstractive text summarization"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = "https://stride.ai"
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "stride.png"
+caption = "My caption :smile:"
+
++++

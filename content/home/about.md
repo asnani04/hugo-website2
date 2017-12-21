@@ -12,14 +12,14 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Probabilistic Machine Learning",
-    "Natural Language Processing",
+    "Natural Language Understanding",
+    "Machine Learning Theory & Applications",
+    "Entrepreneurship",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "B.Tech. in Computer Science and Engineering"
+  course = "Bachelor of Technology in Computer Science and Engineering"
   institution = "Indian Institute of Technology Kanpur"
   year = 2018
  
@@ -27,6 +27,4 @@ weight = 5
 
 # Biography
 
-I am a final year undergraduate student of Computer Science and Engineering at Indian Institute of Technology (IIT) Kanpur. I am passionate about natural language understanding and synthesis, and have recently developed an interest in theoretical aspects of probabilistic machine learning and optimization. I am currently looking for Masters / PhD / Research Assistant opportunities.
-
-I have worked with Dr. Purushottam Kar over the course of two semesters, working on better exploration techniques in random forest based multi label learning, and improved optimization for sequence to sequence tasks. I spent the summer of 2017 as a software engineering intern at Google Hyderabad, gaining valuable industry experience. I have worked at Stride.AI as a machine learning / NLP intern, working on abstractive text summarization and distributed sentence representations. 
+I am a final year undergraduate student of Computer Science and Engineering at Indian Institute of Technology (IIT) Kanpur. I am currently looking for Masters / PhD / Research Assistant opportunities. Much of my undergrad research concerns natural language understanding and synthesis, and my interests span the theoretical foundations of machine learning as well as applications to interesting problem domains.

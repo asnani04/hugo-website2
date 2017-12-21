@@ -2,7 +2,7 @@
 # Tag Cloud widget.
 
 date = 2017-09-20
-draft = false
+draft = true
 
 title = "Tags"
 subtitle = ""

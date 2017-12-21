@@ -4,7 +4,7 @@
 # `selected = true` in their `+++` front matter.
 
 date = 2016-04-20
-draft = false
+draft = true
 
 title = "Selected Publications"
 subtitle = ""
@@ -17,7 +17,7 @@ weight = 10
 #   0 = Simple
 #   1 = Classic
 #   2 = Detailed
-list_format = 2
+list_format = 0
 
 # Filter by publication type.
 # -1: Any

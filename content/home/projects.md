@@ -29,13 +29,15 @@ filter_default = 0
   name = "All"
   tag = "*"
   
-[[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+# [[filter]]
+#   name = "Machine Learning"
+#   tag = ".machine-learning"
 
-[[filter]]
-  name = "Other"
-  tag = ".demo"
+# [[filter]]
+#   name = "Others"
+#   tag = ".demo"
+
 
 +++
 
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
