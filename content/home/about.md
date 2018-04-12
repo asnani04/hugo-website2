@@ -27,4 +27,4 @@ weight = 5
 
 # Biography
 
-I am a final year undergraduate student of Computer Science and Engineering at Indian Institute of Technology (IIT) Kanpur. I am currently looking for Masters / PhD / Research Assistant opportunities. Much of my undergrad research concerns natural language understanding and synthesis, and my interests span the theoretical foundations of machine learning as well as applications to interesting problem domains.
+I am a final year undergraduate student of Computer Science and Engineering at Indian Institute of Technology (IIT) Kanpur. I will be joining Stanford University as a Masters student in Computer Science in Fall 2018. Much of my undergrad research concerns natural language understanding and synthesis, and my interests span the theoretical foundations of machine learning as well as applications to interesting problem domains.
